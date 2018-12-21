@@ -57,3 +57,5 @@ console.log(ticTacToeCheck(ttt))
   //1. if can win then play there
   //2. or if need to block
   //3. easiest - randomly generate index
+
+//use setTimeout for a delay in computer's moves after your own
